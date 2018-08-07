@@ -1,0 +1,2 @@
+# lucky
+Python3
